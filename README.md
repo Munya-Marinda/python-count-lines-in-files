@@ -2,6 +2,8 @@
 
 This Python script allows you to count the number of lines in each file within a specified folder and provides a total line count. This can be useful for analyzing codebases, text files, or any collection of files where you want to track the total number of lines.
 
+<img src="https://github.com/Munya-Marinda/python-count-lines-in-files/assets/84540577/492f3c52-d752-4998-a0ff-91fc78533fe7" alt="App Icon" width="500px" > 
+
 ## Prerequisites
 
 Before running the script, ensure you have the following:
